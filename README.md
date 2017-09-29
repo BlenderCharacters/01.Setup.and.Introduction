@@ -20,3 +20,25 @@ Here are the lectures of the course for this section...
 + Switching and resizing frames
 + Regions: Header, tools and properties
 + Tabs and panels
+
+### 4 Changing Your Viewpoint
++ Zooming, Rotating and Panning the View
++ Changing Views
+
+### 5 Adding Objects
++ Adding objects
++ Mesh objects
++ Introduction To the 3D cursor- Left Clicking
++ The origin
+
+### 6 Transforming Objects
++ Transforming using the 3D manipulator widget
++ Transforming using the tools menu
++ Transforming using shortcut keys
+
+
+Work Space - Screens
++ Switching screens
++ Creating new screens
++ Various Areas, splitting and combining windows
++ Using multiple monitors
