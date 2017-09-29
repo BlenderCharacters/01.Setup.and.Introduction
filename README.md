@@ -1,5 +1,5 @@
 # The Blender Character Creator
-Our upcoming Udemy course will teach you all you need to know to create rigged characters for video games.
+Our Udemy course will teach you all you need to know to create rigged characters for video games.
 
 You're welcome to download, fork or do whatever else legal with all the files!
 
@@ -14,3 +14,9 @@ Here are the lectures of the course for this section...
 + How to check your version of Blender
 + Warning about carefree updating
 + Potential issues using Steam as a package manager
+
+### 3 Overview Of Blender’s Interface
++ Interface Scale
++ Switching and resizing frames
++ Regions: Header, tools and properties
++ Tabs and panels
