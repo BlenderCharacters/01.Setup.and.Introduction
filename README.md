@@ -37,3 +37,11 @@ Here are the lectures of the course for this section...
 + Adding objects
 + Mesh objects
 + Introduction To the 3D cursor- Left Clicking
+
+### 7 Understanding Normals
++ Normal Direction Matters!
++ Particles can use normals to issue particles in certain directions.
++ Freestyle can use normals for artistic elements
++ Modifiers use normals. EG. Edge Split Modifier, Shrink Wrap , Displacement.
++ Selection of faces can use normals
++ And many more...
