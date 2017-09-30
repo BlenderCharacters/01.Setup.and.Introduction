@@ -50,3 +50,8 @@ Here are the lectures of the course for this section...
 + Modifiers use normals. EG. Edge Split Modifier, Shrink Wrap , Displacement.
 + Selection of faces can use normals
 + And many more...
+
+### 99 Section 1 Wrap Up
++ Well done
++ Remember to share your work on the forum!
++ Jump straight in to the next section.
