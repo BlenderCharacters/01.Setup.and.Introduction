@@ -70,6 +70,15 @@ Here are the lectures of the course for this section...
 + You can share you work on our community site!
 + Keep the Udemy Q&A clear for questions :)
 
+### 12 Recommended User Preferences
+#### There are loads of settings, but here are a few...
++ Interface Scale
++ Input Emulate 3 Button Mouse / Emulate Numberpad
++ Add-ons
++ Themes
++ File: Save Versions and the TEMP folder
++ System: Cycles Compute Device
+
 
 
 ### 99 Section 1 Wrap Up
