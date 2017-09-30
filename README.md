@@ -25,20 +25,10 @@ Here are the lectures of the course for this section...
 + Zooming, Rotating and Panning the View
 + Changing Views
 
-### 5 Adding Objects
-+ Adding objects
-+ Mesh objects
-+ Introduction To the 3D cursor- Left Clicking
+### 5 Transforming Objects
 + The origin
-
-### 6 Transforming Objects
++ Pivot points
 + Transforming using the 3D manipulator widget
 + Transforming using the tools menu
 + Transforming using shortcut keys
-
-
-Work Space - Screens
-+ Switching screens
-+ Creating new screens
-+ Various Areas, splitting and combining windows
-+ Using multiple monitors
++ Increment Snapping
