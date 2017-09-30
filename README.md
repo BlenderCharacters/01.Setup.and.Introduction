@@ -9,6 +9,11 @@ You can download the latest state of this section, or go to **Commits** then dow
 ## Section 1 - Setup and Introduction - Lecture List
 Here are the lectures of the course for this section...
 
+### 1 Welcome To The course
++ Michael welcomes you to the course
++ Explains the structure of the course
++ First section is for complete beginners
+
 ### 2 Installing Blender
 + Where to download Blender from
 + How to check your version of Blender
