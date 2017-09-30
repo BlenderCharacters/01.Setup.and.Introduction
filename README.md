@@ -57,6 +57,10 @@ Here are the lectures of the course for this section...
 + How to add Key frames
 + Work Space - Screens
 
+### 9 The Camera
++ The Camera is used for rendering
++ How to position the camera
++ Recording The camera's motion
 
 
 
