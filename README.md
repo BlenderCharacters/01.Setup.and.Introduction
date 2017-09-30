@@ -65,6 +65,11 @@ Here are the lectures of the course for this section...
 ### 10 Recording Manual Movements
 + Really useful for jittery animations
 
+### 11 Introduction To The Community
++ You can share your work on our facebook group
++ You can share you work on our community site!
++ Keep the Udemy Q&A clear for questions :)
+
 
 
 ### 99 Section 1 Wrap Up
