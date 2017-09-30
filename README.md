@@ -62,6 +62,9 @@ Here are the lectures of the course for this section...
 + How to position the camera
 + Recording The camera's motion
 
+### 10 Recording Manual Movements
++ Really useful for jittery animations
+
 
 
 ### 99 Section 1 Wrap Up
