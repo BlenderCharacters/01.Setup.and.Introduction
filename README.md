@@ -85,6 +85,11 @@ Here are the lectures of the course for this section...
 + Rendering an image
 + Rendering an animation ready to share
 
+### 98 End Of Section 1 Challenge
++ Make A Bouncing Ball
++ Use any of the technique you have learnt in this first section
++ Share it With Us
+
 ### 99 Section 1 Wrap Up
 + Well done
 + Remember to share your work on the forum!
