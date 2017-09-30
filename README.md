@@ -51,6 +51,15 @@ Here are the lectures of the course for this section...
 + Selection of faces can use normals
 + And many more...
 
+### 8 The Timeline And Keyframes
++ Bring our scene to life
++ Animate the Cube
++ How to add Key frames
++ Work Space - Screens
+
+
+
+
 ### 99 Section 1 Wrap Up
 + Well done
 + Remember to share your work on the forum!
