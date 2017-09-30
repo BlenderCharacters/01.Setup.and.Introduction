@@ -32,3 +32,8 @@ Here are the lectures of the course for this section...
 + Transforming using the tools menu
 + Transforming using shortcut keys
 + Increment Snapping
+
+### 6 Adding Objects
++ Adding objects
++ Mesh objects
++ Introduction To the 3D cursor- Left Clicking
