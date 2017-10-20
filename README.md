@@ -55,6 +55,7 @@ Here are the lectures of the course for this section...
 + Bring our scene to life
 + Animate the Cube
 + How to add Key frames
++ (Updated 20/10/2017)
 
 ### 9 The Camera
 + The Camera is used for rendering
@@ -77,6 +78,7 @@ Here are the lectures of the course for this section...
 + Themes
 + File: Save Versions and the TEMP folder
 + System: Cycles Compute Device
++ (Updated 20/10/2017)
 
 ### 13 Lighting And Rendering An Animation
 + Difference between Blender Render And Cycles
